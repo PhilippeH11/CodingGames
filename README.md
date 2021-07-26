@@ -1,1 +1,2 @@
 # CodingGames
+Test CodingGames Javascript
